@@ -5,7 +5,7 @@
 
 Iniciamos la maquina usando la VPN de TryHackMe
 
-![Escaneo de puertos](imagenes/1.PNG)
+![Escaneo de puertos](Imagenes/1.PNG)
 
 ## Reconocimiento
 
