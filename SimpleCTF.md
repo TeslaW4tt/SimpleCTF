@@ -103,7 +103,8 @@ Una vez accedemos como el usuario mitch hacemos un `ls` y posteriormente leemos 
 
 ### Respuesta 10
 
-Hacemos un `cd ..` para ir al directorio home y sabemos que existe otro usuario llamado ==sunbath==
+Hacemos un `cd ..` para ir al directorio home y sabemos que existe otro usuario llamado *sunbath*
+
 ![Escaneo de puertos](Imagenes/22.PNG)
 
 ### Respuesta 11
@@ -122,11 +123,13 @@ Utilizamos el comando encontrado en GTFObins
 ![Escaneo de puertos](Imagenes/24.PNG)
 
 Nos regresa una shell y ahora somos root 
+
 ![Escaneo de puertos](Imagenes/25.PNG)
 
 ### Respuesta 13
 
 En el directorio /root/root.txt esta la root flag asi que la leemos con cat 
+
 ![Escaneo de puertos](Imagenes/26.PNG)
 
 
